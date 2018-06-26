@@ -1,0 +1,6 @@
+ ile         status_przetw 
+           2 F             
+          13 N             
+          36 O             
+          30 S             
+        2637 Z             

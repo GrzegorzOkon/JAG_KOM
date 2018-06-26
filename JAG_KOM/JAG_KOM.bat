@@ -1,0 +1,1 @@
+perl JAG_KOM.pl>JAG_KOM.txt
